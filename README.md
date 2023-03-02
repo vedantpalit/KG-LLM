@@ -1,0 +1,1 @@
+This is a project based on building a method to check agreement between Large Language Models using the OpenAI APIs and LangChain Libraries, and Knowledge Bases such as ConceptNet and CommonSense Knowledge Graphs.
